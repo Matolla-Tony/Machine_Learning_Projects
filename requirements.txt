@@ -24,3 +24,6 @@ faiss-cpu
 langchain_google_genai
 chromadb
 ipykernel
+fitz
+PyMuPDF
+tqdm

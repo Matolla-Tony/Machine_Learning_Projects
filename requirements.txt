@@ -27,3 +27,6 @@ ipykernel
 fitz
 PyMuPDF
 tqdm
+nltk
+spacy
+regex
